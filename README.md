@@ -1,11 +1,13 @@
+# 🌱 Mental Health App Prototype  
 
-  # Skill Issue
+This repository contains the **code bundle** for a Mental Health App prototype.  
+The original design project is available on Figma:  
+👉 [View Figma Prototype](https://www.figma.com/design/rueyAWsaFtfB8qUmWGndpt/Skill-Issue)  
 
-  This is a code bundle for Skill Issue. The original project is available at https://www.figma.com/design/rueyAWsaFtfB8qUmWGndpt/Skill-Issue.
+---
 
-  ## Running the code
+## 🚀 Running the Code  
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+1. Install dependencies:  
+   ```bash
+   npm i
