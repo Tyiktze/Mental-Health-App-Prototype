@@ -1,2 +1,11 @@
-# Mental-Health-App-Prototype
-A prototype mobile application designed to support mental health and well-being. The app focuses on providing simple, accessible tools to help users manage stress, track moods, and practice mindfulness.
+
+  # Skill Issue
+
+  This is a code bundle for Skill Issue. The original project is available at https://www.figma.com/design/rueyAWsaFtfB8qUmWGndpt/Skill-Issue.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
